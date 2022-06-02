@@ -1,0 +1,23 @@
+.desc {
+    max-height: 130px;
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+.phone-img {
+    width: auto;
+    height: 200px;
+}
+.card-item {
+    position: relative;
+}
+
+.cart-button {
+    width: 95%;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15111111px;
+}
+
